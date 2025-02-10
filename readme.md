@@ -10,10 +10,13 @@
 开始：
 
 打开 Wordpress2Doc 应用主程序。
+
 点击 Load Wordpress export xml 按钮后，Open想要转换的.xml文件
-此时会进入Choose articles选项卡，页面已经列出该文件下所有文章，可以勾选或取消勾选文章名前选框以选择想转换的文章，若单机文章名可以html或text在右侧预览。
-选择完成后单击 Convert and export 选项卡。
+
+此时会进入Choose articles选项卡，页面已经列出该文件下所有文章，可以勾选或取消勾选文章名前选框以选择想转换的文章，若单机文章名可以html或text在右侧预览。选择完成后单击 Convert and export 选项卡。
+
 在Convert and export选项卡页，可通过相应格式开关选择导出格式，也可选择是否将所有文章导出至一个文档。
+
 准备完成后单击 Convert Choose articles 按钮并选择导出位置，等待软件提示 “Sir I'm done” 即表示完成。
 
 
