@@ -1,4 +1,4 @@
-# Wordpress2Doc
+# Wordpress .xml转换为PDF&DOC
 
 ## Info 
 有的时候可能会导致找不到博客文章，虽然在有备份意识的情况下概率极小，但这个工具给了一种快速从Wordpress xml内容备份文件恢复文章的方法。
